@@ -1,2 +1,2 @@
 MSYADD1 Documentation
-Marc Angelo A Nerez https://github.com/Makyou1](https://github.com/Makkime
+Marc Angelo A Nerez - https://github.com/Makkime
