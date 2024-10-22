@@ -9,3 +9,5 @@ frappe_inquiry_app: https://github.com/Eurasian123/frappe_app01
 frappe_cost_dist_app: https://github.com/Makkime/frappe_app01
 
 
+added cms documentations for github issues and branches. (using self cloud hosting)
+
