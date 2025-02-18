@@ -5,7 +5,7 @@ Team Tacos Frappe Repository:
 https://github.com/jehosubedi/Team-Tacos
 
 SMGWSSI Platform: 
-https://smgwssi.jehosubedi.com/  
+https://smgwssi.com/  
 
 added cms documentations for github issues and branches. (using self cloud hosting)
 
